@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterupdate",
+        "uuid": 2893800,
+        "checksum": "1n51suo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
